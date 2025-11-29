@@ -69,7 +69,7 @@ python scripts/consumer.py --mode batch --window 1000 --model model.joblib --bro
 - **Prometheus Metrics:** [http://localhost:8000/metrics](http://localhost:8000/metrics)
 - **Kafdrop (Topics):** [http://localhost:9000](http://localhost:9000)
 
-## 🧪 Testing
+##  Testing
 
 Run unit and integration tests:
 ```bash
